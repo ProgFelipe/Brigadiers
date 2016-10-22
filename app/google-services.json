@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965279031584",
+    "project_id": "firebase-brigadiers"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965279031584:android:a1ca796c3b15e270",
+        "android_client_info": {
+          "package_name": "com.brigade.brigadiers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965279031584-ertnclbmsq6id456f1uhpgbuub8ka4p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brigade.brigadiers",
+            "certificate_hash": "3A5E818925DBF44CEF587E1D8E4D2029942878EC"
+          }
+        },
+        {
+          "client_id": "965279031584-fimg2j084pl2dtes1tfpluut0sk20r88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB626oQ4zux0W8ZGt1oCdpu7j92TFjSDPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
